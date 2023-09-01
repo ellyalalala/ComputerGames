@@ -1,2 +1,5 @@
 # ComputerGames
 It is necessary to identify patterns that determine the success of the game.
+
+You work in the Strimchik online store, which sells computer games all over the world. Historical data on game sales, user and expert ratings, genres and platforms (for example, Xbox or PlayStation) are available from open sources. You need to identify the patterns that determine the success of the game. This will allow you to place a bet on a potentially popular product and plan advertising campaigns.
+Here is the data up to 2016. Let's say it's December 2016 and you're planning a campaign for 2017. It is necessary to work out the principle of working with data. It doesn't matter whether you forecast sales for 2017 based on 2016 data or 2027 sales based on 2026 data. The data set contains the abbreviation ESRB (Entertainment Software Rating Board) - this is an association that determines the age rating of computer games. The ESRB evaluates game content and assigns it an appropriate age rating, such as Mature, Young Children, or Teen.
